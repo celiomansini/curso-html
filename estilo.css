@@ -1,0 +1,17 @@
+p   {
+    color: red;
+    font-size: 1em;
+    background-color: azure;
+    }
+li  {
+    color: blueviolet;
+    }
+p.endereco{
+    color: chartreuse;
+    font-family: fantasy
+}
+
+h2.endereco{
+    color: blueviolet;
+    
+}
